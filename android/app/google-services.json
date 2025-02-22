@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "619444732168",
+    "project_id": "appforenvironment",
+    "storage_bucket": "appforenvironment.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619444732168:android:c78779d71e8936d4552cbd",
+        "android_client_info": {
+          "package_name": "com.example.appforenvironment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl-1xBy144T3RJbQ3brUxoeWArXdZOnz8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
